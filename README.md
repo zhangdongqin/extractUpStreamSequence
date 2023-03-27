@@ -1,0 +1,2 @@
+# extractUpStreamSequence
+用来提取给定基因列表的基因上游区域用法如下
